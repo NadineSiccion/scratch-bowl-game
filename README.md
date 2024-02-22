@@ -1,4 +1,5 @@
-<img src="./banner.png" alt="The Bowl Game banner" width="60%">
+<link href="style.css" rel="stylesheet"></link>
+<div class="banner"><img src="./banner.png" alt="The Bowl Game banner" width="60%"></div>
 
 # The Bowl Game
 The Bowl Game is my first project for Harvard's CS50 course using the Scratch programming language by MIT. Have fun playing the game!
