@@ -1,1 +1,7 @@
-img[alt="The Bowl Game banner"] { text-align: center; }
+img[alt="The Bowl Game banner"] {
+  text-align: center; 
+}
+
+div.banner {
+  text-align: center;
+}
