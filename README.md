@@ -1,10 +1,12 @@
-# scratch-bowl-game
-![The Bowl Game banner](./banner.png "The Bowl Game banner")
+<img src="./banner.png" alt="The Bowl Game banner" width="60%">
+
+# The Bowl Game
 The Bowl Game is my first project for Harvard's CS50 course using the Scratch programming language by MIT. Have fun playing the game!
 
 # Mechanics
-Objective:
+Game objective:
 * Empty at least three bowls to complete the game.
+
 The rules of the game are as follows:
 * Press the green button to generate orange slices which will more around the screen.
 * Collect the orange slices by touching them with the bowl.
